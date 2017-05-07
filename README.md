@@ -1,0 +1,2 @@
+# MyAlgorithm
+java basic knowledge
